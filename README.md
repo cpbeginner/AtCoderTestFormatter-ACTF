@@ -1,4 +1,4 @@
-# AtCoderTestFormatter-ATCF
+# AtCoderTestFormatter-ACTF
 A convenient tool for converting AtCoder test cases to DMOJ test data.
 
 # Features
